@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gunawansapu/static/css/main.bf538fe7.css",
+    "main.js": "/gunawansapu/static/js/main.8624f040.js",
+    "static/media/WhatsApp Image 2025-05-24 at 07.58.09_2fac3eeb.jpg": "/gunawansapu/static/media/WhatsApp Image 2025-05-24 at 07.58.09_2fac3eeb.8ca4b34d6ec0340dd9ae.jpg",
+    "index.html": "/gunawansapu/index.html",
+    "main.bf538fe7.css.map": "/gunawansapu/static/css/main.bf538fe7.css.map",
+    "main.8624f040.js.map": "/gunawansapu/static/js/main.8624f040.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.8624f040.js"
+  ]
+}
